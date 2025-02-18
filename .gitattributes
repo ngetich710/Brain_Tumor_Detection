@@ -1,0 +1,2 @@
+resources/*.h5 filter=lfs diff=lfs merge=lfs -text
+resources/*.keras filter=lfs diff=lfs merge=lfs -text
